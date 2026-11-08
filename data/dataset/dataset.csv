@@ -1,0 +1,118 @@
+name,symbol,atomic_number,group,period,family,block,valence_electrons,electron_configuration,state_25C,type
+Helium,He,2,18.0,1,Noble Gas,s,2,1s2,Gas,Nonmetal
+Lithium,Li,3,1.0,2,Alkali Metal,s,1,[He] 2s1,Solid,Metal
+Beryllium,Be,4,2.0,2,Alkaline Earth Metal,s,2,[He] 2s2,Solid,Metal
+Boron,B,5,13.0,2,Boron Group,p,3,[He] 2s2 2p1,Solid,Metalloid
+Carbon,C,6,14.0,2,Carbon Group,p,4,[He] 2s2 2p2,Solid,Nonmetal
+Nitrogen,N,7,15.0,2,Pnictogen,p,5,[He] 2s2 2p3,Gas,Nonmetal
+Oxygen,O,8,16.0,2,Chalcogen,p,6,[He] 2s2 2p4,Gas,Nonmetal
+Fluorine,F,9,17.0,2,Halogen,p,7,[He] 2s2 2p5,Gas,Nonmetal
+Neon,Ne,10,18.0,2,Noble Gas,p,8,[He] 2s2 2p6,Gas,Nonmetal
+Sodium,Na,11,1.0,3,Alkali Metal,s,1,[Ne] 3s1,Solid,Metal
+Magnesium,Mg,12,2.0,3,Alkaline Earth Metal,s,2,[Ne] 3s2,Solid,Metal
+Aluminium,Al,13,13.0,3,Boron Group,p,3,[Ne] 3s2 3p1,Solid,Metal
+Silicon,Si,14,14.0,3,Carbon Group,p,4,[Ne] 3s2 3p2,Solid,Metalloid
+Phosphorus,P,15,15.0,3,Pnictogen,p,5,[Ne] 3s2 3p3,Solid,Nonmetal
+Sulfur,S,16,16.0,3,Chalcogen,p,6,[Ne] 3s2 3p4,Solid,Nonmetal
+Chlorine,Cl,17,17.0,3,Halogen,p,7,[Ne] 3s2 3p5,Gas,Nonmetal
+Argon,Ar,18,18.0,3,Noble Gas,p,8,[Ne] 3s2 3p6,Gas,Nonmetal
+Potassium,K,19,1.0,4,Alkali Metal,s,1,[Ar] 4s1,Solid,Metal
+Calcium,Ca,20,2.0,4,Alkaline Earth Metal,s,2,[Ar] 4s2,Solid,Metal
+Scandium,Sc,21,3.0,4,Transition Metal,d,3,[Ar] 3d1 4s2,Solid,Metal
+Titanium,Ti,22,4.0,4,Transition Metal,d,4,[Ar] 3d2 4s2,Solid,Metal
+Vanadium,V,23,5.0,4,Transition Metal,d,5,[Ar] 3d3 4s2,Solid,Metal
+Chromium,Cr,24,6.0,4,Transition Metal,d,6,[Ar] 3d5 4s1,Solid,Metal
+Manganese,Mn,25,7.0,4,Transition Metal,d,7,[Ar] 3d5 4s2,Solid,Metal
+Iron,Fe,26,8.0,4,Transition Metal,d,8,[Ar] 3d6 4s2,Solid,Metal
+Cobalt,Co,27,9.0,4,Transition Metal,d,9,[Ar] 3d7 4s2,Solid,Metal
+Nickel,Ni,28,10.0,4,Transition Metal,d,10,[Ar] 3d8 4s2,Solid,Metal
+Copper,Cu,29,11.0,4,Transition Metal,d,11,[Ar] 3d10 4s1,Solid,Metal
+Zinc,Zn,30,12.0,4,Transition Metal,d,12,[Ar] 3d10 4s2,Solid,Metal
+Gallium,Ga,31,13.0,4,Boron Group,p,3,[Ar] 3d10 4s2 4p1,Solid,Metal
+Germanium,Ge,32,14.0,4,Carbon Group,p,4,[Ar] 3d10 4s2 4p2,Solid,Metalloid
+Arsenic,As,33,15.0,4,Pnictogen,p,5,[Ar] 3d10 4s2 4p3,Solid,Metalloid
+Selenium,Se,34,16.0,4,Chalcogen,p,6,[Ar] 3d10 4s2 4p4,Solid,Nonmetal
+Bromine,Br,35,17.0,4,Halogen,p,7,[Ar] 3d10 4s2 4p5,Liquid,Nonmetal
+Krypton,Kr,36,18.0,4,Noble Gas,p,8,[Ar] 3d10 4s2 4p6,Gas,Nonmetal
+Rubidium,Rb,37,1.0,5,Alkali Metal,s,1,[Kr] 5s1,Solid,Metal
+Strontium,Sr,38,2.0,5,Alkaline Earth Metal,s,2,[Kr] 5s2,Solid,Metal
+Yttrium,Y,39,3.0,5,Transition Metal,d,3,[Kr] 4d1 5s2,Solid,Metal
+Zirconium,Zr,40,4.0,5,Transition Metal,d,4,[Kr] 4d2 5s2,Solid,Metal
+Niobium,Nb,41,5.0,5,Transition Metal,d,5,[Kr] 4d4 5s1,Solid,Metal
+Molybdenum,Mo,42,6.0,5,Transition Metal,d,6,[Kr] 4d5 5s1,Solid,Metal
+Technetium,Tc,43,7.0,5,Transition Metal,d,7,[Kr] 4d5 5s2,Solid,Metal
+Ruthenium,Ru,44,8.0,5,Transition Metal,d,8,[Kr] 4d7 5s1,Solid,Metal
+Rhodium,Rh,45,9.0,5,Transition Metal,d,9,[Kr] 4d8 5s1,Solid,Metal
+Palladium,Pd,46,10.0,5,Transition Metal,d,10,[Kr] 4d10,Solid,Metal
+Silver,Ag,47,11.0,5,Transition Metal,d,11,[Kr] 4d10 5s1,Solid,Metal
+Cadmium,Cd,48,12.0,5,Transition Metal,d,12,[Kr] 4d10 5s2,Solid,Metal
+Indium,In,49,13.0,5,Boron Group,p,3,[Kr] 4d10 5s2 5p1,Solid,Metal
+Tin,Sn,50,14.0,5,Carbon Group,p,4,[Kr] 4d10 5s2 5p2,Solid,Metal
+Antimony,Sb,51,15.0,5,Pnictogen,p,5,[Kr] 4d10 5s2 5p3,Solid,Metalloid
+Tellurium,Te,52,16.0,5,Chalcogen,p,6,[Kr] 4d10 5s2 5p4,Solid,Metalloid
+Iodine,I,53,17.0,5,Halogen,p,7,[Kr] 4d10 5s2 5p5,Solid,Nonmetal
+Xenon,Xe,54,18.0,5,Noble Gas,p,8,[Kr] 4d10 5s2 5p6,Gas,Nonmetal
+Caesium,Cs,55,1.0,6,Alkali Metal,s,1,[Xe] 6s1,Solid,Metal
+Barium,Ba,56,2.0,6,Alkaline Earth Metal,s,2,[Xe] 6s2,Solid,Metal
+Lanthanum,La,57,3.0,6,Lanthanide,f,3,[Xe] 5d1 6s2,Solid,Metal
+Cerium,Ce,58,,6,Lanthanide,f,4,[Xe] 4f1 5d1 6s2,Solid,Metal
+Praseodymium,Pr,59,,6,Lanthanide,f,5,[Xe] 4f3 6s2,Solid,Metal
+Neodymium,Nd,60,,6,Lanthanide,f,6,[Xe] 4f4 6s2,Solid,Metal
+Promethium,Pm,61,,6,Lanthanide,f,7,[Xe] 4f5 6s2,Solid,Metal
+Samarium,Sm,62,,6,Lanthanide,f,8,[Xe] 4f6 6s2,Solid,Metal
+Europium,Eu,63,,6,Lanthanide,f,9,[Xe] 4f7 6s2,Solid,Metal
+Gadolinium,Gd,64,,6,Lanthanide,f,10,[Xe] 4f7 5d1 6s2,Solid,Metal
+Terbium,Tb,65,,6,Lanthanide,f,11,[Xe] 4f9 6s2,Solid,Metal
+Dysprosium,Dy,66,,6,Lanthanide,f,12,[Xe] 4f10 6s2,Solid,Metal
+Holmium,Ho,67,,6,Lanthanide,f,13,[Xe] 4f11 6s2,Solid,Metal
+Erbium,Er,68,,6,Lanthanide,f,14,[Xe] 4f12 6s2,Solid,Metal
+Thulium,Tm,69,,6,Lanthanide,f,15,[Xe] 4f13 6s2,Solid,Metal
+Ytterbium,Yb,70,,6,Lanthanide,f,16,[Xe] 4f14 6s2,Solid,Metal
+Lutetium,Lu,71,,6,Lanthanide,f,3,[Xe] 4f14 5d1 6s2,Solid,Metal
+Hafnium,Hf,72,4.0,6,Transition Metal,d,4,[Xe] 4f14 5d2 6s2,Solid,Metal
+Tantalum,Ta,73,5.0,6,Transition Metal,d,5,[Xe] 4f14 5d3 6s2,Solid,Metal
+Tungsten,W,74,6.0,6,Transition Metal,d,6,[Xe] 4f14 5d4 6s2,Solid,Metal
+Rhenium,Re,75,7.0,6,Transition Metal,d,7,[Xe] 4f14 5d5 6s2,Solid,Metal
+Osmium,Os,76,8.0,6,Transition Metal,d,8,[Xe] 4f14 5d6 6s2,Solid,Metal
+Iridium,Ir,77,9.0,6,Transition Metal,d,9,[Xe] 4f14 5d7 6s2,Solid,Metal
+Platinum,Pt,78,10.0,6,Transition Metal,d,10,[Xe] 4f14 5d9 6s1,Solid,Metal
+Gold,Au,79,11.0,6,Transition Metal,d,11,[Xe] 4f14 5d10 6s1,Solid,Metal
+Mercury,Hg,80,12.0,6,Transition Metal,d,12,[Xe] 4f14 5d10 6s2,Liquid,Metal
+Thallium,Tl,81,13.0,6,Boron Group,p,3,[Xe] 4f14 5d10 6s2 6p1,Solid,Metal
+Lead,Pb,82,14.0,6,Carbon Group,p,4,[Xe] 4f14 5d10 6s2 6p2,Solid,Metal
+Bismuth,Bi,83,15.0,6,Pnictogen,p,5,[Xe] 4f14 5d10 6s2 6p3,Solid,Metal
+Polonium,Po,84,16.0,6,Chalcogen,p,6,[Xe] 4f14 5d10 6s2 6p4,Solid,Metal
+Astatine,At,85,17.0,6,Halogen,p,7,[Xe] 4f14 5d10 6s2 6p5,Solid,Metalloid
+Radon,Rn,86,18.0,6,Noble Gas,p,8,[Xe] 4f14 5d10 6s2 6p6,Gas,Nonmetal
+Francium,Fr,87,1.0,7,Alkali Metal,s,1,[Rn] 7s1,Solid,Metal
+Radium,Ra,88,2.0,7,Alkaline Earth Metal,s,2,[Rn] 7s2,Solid,Metal
+Actinium,Ac,89,3.0,7,Actinide,f,3,[Rn] 6d1 7s2,Solid,Metal
+Thorium,Th,90,,7,Actinide,f,4,[Rn] 6d2 7s2,Solid,Metal
+Protactinium,Pa,91,,7,Actinide,f,5,[Rn] 5f2 6d1 7s2,Solid,Metal
+Uranium,U,92,,7,Actinide,f,6,[Rn] 5f3 6d1 7s2,Solid,Metal
+Neptunium,Np,93,,7,Actinide,f,7,[Rn] 5f4 6d1 7s2,Solid,Metal
+Plutonium,Pu,94,,7,Actinide,f,8,[Rn] 5f6 7s2,Solid,Metal
+Americium,Am,95,,7,Actinide,f,9,[Rn] 5f7 7s2,Solid,Metal
+Curium,Cm,96,,7,Actinide,f,10,[Rn] 5f7 6d1 7s2,Solid,Metal
+Berkelium,Bk,97,,7,Actinide,f,11,[Rn] 5f9 7s2,Solid,Metal
+Californium,Cf,98,,7,Actinide,f,12,[Rn] 5f10 7s2,Solid,Metal
+Einsteinium,Es,99,,7,Actinide,f,13,[Rn] 5f11 7s2,Solid,Metal
+Fermium,Fm,100,,7,Actinide,f,14,[Rn] 5f12 7s2,Solid,Metal
+Mendelevium,Md,101,,7,Actinide,f,15,[Rn] 5f13 7s2,Solid,Metal
+Nobelium,No,102,,7,Actinide,f,16,[Rn] 5f14 7s2,Solid,Metal
+Lawrencium,Lr,103,,7,Actinide,f,3,[Rn] 5f14 7s2 7p1,Solid,Metal
+Rutherfordium,Rf,104,4.0,7,Transition Metal,d,4,[Rn] 5f14 6d2 7s2,Unknown,Metal
+Dubnium,Db,105,5.0,7,Transition Metal,d,5,[Rn] 5f14 6d3 7s2,Unknown,Metal
+Seaborgium,Sg,106,6.0,7,Transition Metal,d,6,[Rn] 5f14 6d4 7s2,Unknown,Metal
+Bohrium,Bh,107,7.0,7,Transition Metal,d,7,[Rn] 5f14 6d5 7s2,Unknown,Metal
+Hassium,Hs,108,8.0,7,Transition Metal,d,8,[Rn] 5f14 6d6 7s2,Unknown,Metal
+Meitnerium,Mt,109,9.0,7,Transition Metal,d,9,[Rn] 5f14 6d7 7s2,Unknown,Metal
+Darmstadtium,Ds,110,10.0,7,Transition Metal,d,10,[Rn] 5f14 6d8 7s2,Unknown,Metal
+Roentgenium,Rg,111,11.0,7,Transition Metal,d,11,[Rn] 5f14 6d9 7s2,Unknown,Metal
+Copernicium,Cn,112,12.0,7,Transition Metal,d,12,[Rn] 5f14 6d10 7s2,Unknown,Metal
+Nihonium,Nh,113,13.0,7,Boron Group,p,3,[Rn] 5f14 6d10 7s2 7p1,Unknown,Metal
+Flerovium,Fl,114,14.0,7,Carbon Group,p,4,[Rn] 5f14 6d10 7s2 7p2,Unknown,Metal
+Moscovium,Mc,115,15.0,7,Pnictogen,p,5,[Rn] 5f14 6d10 7s2 7p3,Unknown,Metal
+Livermorium,Lv,116,16.0,7,Chalcogen,p,6,[Rn] 5f14 6d10 7s2 7p4,Unknown,Metal
+Tennessine,Ts,117,17.0,7,Halogen,p,7,[Rn] 5f14 6d10 7s2 7p5,Unknown,Unknown
+Oganesson,Og,118,18.0,7,Noble Gas,p,8,[Rn] 5f14 6d10 7s2 7p6,Unknown,Unknown
